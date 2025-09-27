@@ -24,9 +24,9 @@ This blog is my canvas to share:
 Some highlights from my recent projects:
 
 - **Atlas Iron (Mining)** – Designed and delivered a Microsoft Fabric–based Contractor Analytics solution to automate data cleansing and streamline reporting for site superintendents.  
-- **HanRoy (Mining)** – Built a Fabric MVP and production deployment, including training to help their teams evolve the platform.  
-- **South32 (Mining)** – Established API ingestion patterns on Databricks for the G360 Risk platform, integrating with existing DevOps and Delta Live workflows.  
-- **Guzman y Gomez (Retail)** – Supported Fabric implementation and data architecture as part of a multi-region rollout.  
+- **Mining Client** – Built a Fabric MVP and production deployment, including training to help their teams evolve the platform.  
+- **Another Mining Client** – Established API ingestion patterns on Databricks for the G360 Risk platform, integrating with existing DevOps and Asset Bundles.  
+- **Retail Client** – Supported Fabric implementation and data architecture as part of a multi-region rollout.  
 
 Each project has been an opportunity to test **modern data thinking against real-world complexity**.  
 

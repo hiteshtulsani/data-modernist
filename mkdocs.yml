@@ -1,0 +1,72 @@
+site_name: The Data Modernist
+site_url: https://hiteshtulsani.github.io/data-modernist
+theme:
+    name: material
+    font:
+        text: Merriweather Sans
+        code: Red Hat Mono
+    icon:
+        logo: fontawesome/solid/dice
+    favicon: assets/images/favicon-16x16.png
+    palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: lime
+      accent: orange
+
+    font:
+      code: Roboto Mono
+      text: Roboto
+
+    features:
+    # Navigation features
+      - navigation.instant
+      - navigation.instant.prefetch
+      - navigation.instant.progress
+      - navigation.tracking
+      - navigation.tabs
+      - navigation.tabs.sticky
+      - navigation.sections
+      - navigation.path
+      - navigation.top
+    #   TOC
+      - toc.integrate
+
+extra_css:
+    - assets/css/extra.css
+extra_javascript:
+  - assets/javascript/extra.js
+
+nav:
+    - Home: index.md
+    - Databricks: 
+      - Databricks on Azure: Databricks/databricks_az.md
+      - Databricks on AWS: Databricks/databricks_aws.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

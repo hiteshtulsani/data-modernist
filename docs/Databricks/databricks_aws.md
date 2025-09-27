@@ -1,0 +1,7 @@
+# Databricks on AWS
+
+## Reference Architecture
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim eum quas ut laboriosam optio maxime, adipisci modi vel reiciendis velit magni nisi natus, deserunt quidem deleniti sequi debitis ullam voluptates! Eligendi omnis, facere mollitia id soluta iure culpa voluptate sunt quae ad eius libero aperiam. Libero obcaecati facilis nemo alias cumque nesciunt maiores. Earum voluptatibus, voluptate officia pariatur esse quos facilis deserunt at ex molestiae! Molestiae numquam rem quam quasi, hic pariatur reiciendis ex, excepturi rerum eius illo labore nisi, recusandae iste exercitationem dicta beatae eaque repellendus magni itaque distinctio tenetur veritatis! Maxime accusamus, quos, consequuntur laudantium aut iure sed animi rerum asperiores eum inventore? Quis vitae eaque totam impedit velit aliquid, doloremque est et perferendis ex eius, in a molestiae quo, incidunt eveniet. Eveniet iste corrupti assumenda mollitia accusantium quos commodi repellendus illo obcaecati unde! Inventore modi, expedita voluptas unde sit earum ipsam ipsum nostrum! Quidem consequatur tenetur molestiae dolor reprehenderit, voluptas enim sit doloremque cupiditate placeat eum accusantium illo ducimus ut vitae necessitatibus consectetur distinctio aliquam nisi minima a. Rem deleniti neque repellendus velit suscipit porro alias possimus amet praesentium accusantium sint non quos odit ad, eius facilis provident blanditiis beatae vero! Laboriosam omnis dolorem cum corrupti incidunt?
